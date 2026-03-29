@@ -12,7 +12,7 @@
 </p> -->
 
 
-A Passionate Full Stack Developer with 4+ years of industry experience building web applications and AI/ML solutions.
+A Passionate Full Stack Engineer with 5+ years of industry experience building web applications and AI/ML solutions.
 I thrive on learning new technologies and solving real-world problems, with a deep curiosity about how things work at every level. My expertise spans backend and frontend development, and I enjoy crafting practical software that makes a difference.
 
 ---
